@@ -1,0 +1,3 @@
+import redboard
+
+redboard.red()
